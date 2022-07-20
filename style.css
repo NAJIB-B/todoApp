@@ -1,0 +1,27 @@
+.main {
+  margin: auto;
+  padding: 30px;
+
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+}
+.todo {
+  border-radius: 15px;
+  text-align: center;
+  margin: auto;
+  padding: 30px;
+  border: 2px solid grey;
+}
+p {
+  display: inline-block;
+  margin: 0;
+}
+.done {
+  margin-left: 15px;
+}
+li {
+  margin-bottom: 10px;
+}
